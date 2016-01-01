@@ -6,7 +6,9 @@ Docker image file for creating a Jenkins container ready for accompanying blog o
 
 # Running the container
 
-  docker run -v /var/run/docker.sock:/var/run/docker.sock -v $(which docker):/bin/docker -p 8080:8080 -t eggsy84/jenkins-maven-git-docker
+```term
+docker run -v /var/run/docker.sock:/var/run/docker.sock -v $(which docker):/bin/docker -p 8080:8080 -t eggsy84/jenkins-maven-git-docker
+```
 
 # Software Pre-Loaded
 
