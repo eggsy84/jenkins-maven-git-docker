@@ -1,0 +1,16 @@
+pluginID:version
+scm-api:1.0
+token-macro:1.11
+promoted-builds:2.24
+git-client:1.19.0
+parameterized-trigger:2.4
+matrix-project:1.6
+credentials::1.24
+mailer:1.16
+ssh-credentials:1.11
+docker-commons:1.0
+jquery:1.7.2-1
+dashboard-view:2.2
+build-pipeline-plugin:1.4.9
+git:2.4.1
+docker-build-publish:1.1
