@@ -4,7 +4,7 @@ promoted-builds:2.24
 git-client:1.19.1
 parameterized-trigger:2.30
 matrix-project:1.6
-credentials::1.24
+credentials:1.24
 mailer:1.16
 ssh-credentials:1.11
 docker-commons:1.2
