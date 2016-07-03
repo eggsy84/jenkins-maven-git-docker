@@ -9,7 +9,7 @@
 # http://eggsylife.co.uk/2015/12/29/spring-boot-jenkins-and-docker-part-one/
 
 FROM jenkins:1.625.3
-MAINTAINER James Heggs eggsy@eggsylife.co.uk
+MAINTAINER James Heggs jimbobegg@hotmail.com
 
 # Install Jenkins Plugins
 COPY resources/plugins.txt /usr/share/jenkins/plugins.txt
